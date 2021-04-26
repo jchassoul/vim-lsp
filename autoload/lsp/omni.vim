@@ -23,7 +23,7 @@ let s:default_completion_item_kinds = {
             \ '17': ' file',
             \ '18': ' reference',
             \ '19': ' folder',
-            \ '20': ' enum member',
+            \ '20': ' enum member',
             \ '21': ' constant',
             \ '22': ' struct',
             \ '23': ' event',
